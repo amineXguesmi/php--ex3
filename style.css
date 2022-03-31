@@ -1,0 +1,7 @@
+a:link{
+    text-decoration: none;
+    color: rgb(13, 0, 0);
+}
+.contenu{
+text-overflow:ellipsis;
+word-wrap: break-word;}
